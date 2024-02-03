@@ -12,6 +12,6 @@ class MyDrawPanel extends JPanel {
 
         Color randomColor = new Color(red, green, blue);
         g.setColor(randomColor);
-        g.fillOval(70, 70, 100, 100);
+        g.fillOval(30, 80, 100, 100);
     }
 }
